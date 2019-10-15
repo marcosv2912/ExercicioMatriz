@@ -1,0 +1,11 @@
+C:\Users\marcos.paixao\source\repos\ExercicioMatriz\ExercicioMatriz\bin\Debug\netcoreapp3.0\ExercicioMatriz.exe
+C:\Users\marcos.paixao\source\repos\ExercicioMatriz\ExercicioMatriz\bin\Debug\netcoreapp3.0\ExercicioMatriz.deps.json
+C:\Users\marcos.paixao\source\repos\ExercicioMatriz\ExercicioMatriz\bin\Debug\netcoreapp3.0\ExercicioMatriz.runtimeconfig.json
+C:\Users\marcos.paixao\source\repos\ExercicioMatriz\ExercicioMatriz\bin\Debug\netcoreapp3.0\ExercicioMatriz.runtimeconfig.dev.json
+C:\Users\marcos.paixao\source\repos\ExercicioMatriz\ExercicioMatriz\bin\Debug\netcoreapp3.0\ExercicioMatriz.dll
+C:\Users\marcos.paixao\source\repos\ExercicioMatriz\ExercicioMatriz\bin\Debug\netcoreapp3.0\ExercicioMatriz.pdb
+C:\Users\marcos.paixao\source\repos\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.0\ExercicioMatriz.csprojAssemblyReference.cache
+C:\Users\marcos.paixao\source\repos\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.0\ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Users\marcos.paixao\source\repos\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.0\ExercicioMatriz.AssemblyInfo.cs
+C:\Users\marcos.paixao\source\repos\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.0\ExercicioMatriz.dll
+C:\Users\marcos.paixao\source\repos\ExercicioMatriz\ExercicioMatriz\obj\Debug\netcoreapp3.0\ExercicioMatriz.pdb
